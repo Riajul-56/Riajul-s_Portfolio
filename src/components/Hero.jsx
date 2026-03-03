@@ -117,8 +117,8 @@ const Hero = () => {
               <div className="w-px bg-border"></div>
               <div className="text-center">
                 <p className="text-3xl font-bold text-white">
-                  <Counter end={10} duration={2} />
-                  <span className="text-2xl">+</span>
+                  <Counter end={20} duration={2} />
+                  <span className="text-2xl"></span>
                 </p>
                 <p className="text-sm text-text-muted">Projects Completed</p>
               </div>
@@ -155,7 +155,7 @@ const Hero = () => {
                 <Linkedin size={18} className="mr-2" /> LinkedIn
               </a>
               <a
-                href="mailto:riajul@example.com"
+                href="mailto:hasanriajul112@gmail.com"
                 className="inline-flex items-center justify-center px-6 py-3 rounded-lg font-medium transition-all duration-200 border border-border hover:border-brand text-slate-300 hover:text-white bg-transparent hover:bg-brand/10"
               >
                 <Mail size={18} className="mr-2" /> Email
