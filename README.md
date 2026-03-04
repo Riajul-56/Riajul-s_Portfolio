@@ -1,4 +1,4 @@
-# 🚀 Riajul Hasan - Professional Portfolio
+# 🚀 Riajul Hasan - Portfolio
 
 <div align="center">
 
@@ -12,20 +12,6 @@
 [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-10.16.4-F24E1E?logo=framer)](https://www.framer.com/motion/)
 
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [About](#-about)
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
-- [Contact](#-contact)
-- [License](#-license)
 
 ---
 
@@ -58,17 +44,6 @@ This portfolio showcases my skills, projects, certifications, and provides a way
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-</div>
-
-## 🛠 Technologies Used
-
-<div align="center">
-
-### Frontend
-[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.2-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-10.16.4-F24E1E?logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
 </div>
 
