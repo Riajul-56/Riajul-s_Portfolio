@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Banner](https://via.placeholder.com/1200x400/0f172a/3b82f6?text=Riajul+Hasan+Portfolio)
+![Portfolio Banner](https://github.com/Riajul-56/Riajul-s_Portfolio/blob/main/public/Banner.png)
 
 **Professional MERN Stack Developer & CSE Undergraduate**
 
@@ -61,5 +61,15 @@ This portfolio showcases my skills, projects, certifications, and provides a way
 
 </div>
 
+## 🛠 Technologies Used
+
+<div align="center">
+
+### Frontend
+[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.2-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-10.16.4-F24E1E?logo=framer&logoColor=white)](https://www.framer.com/motion/)
+
+</div>
 
 
