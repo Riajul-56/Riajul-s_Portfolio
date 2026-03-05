@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { University, Briefcase, GraduationCap, Award } from "lucide-react";
+import { University, GraduationCap } from "lucide-react";
 
 const About = () => {
   const academicData = [
