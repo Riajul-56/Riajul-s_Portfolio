@@ -1,3 +1,4 @@
+import { HelmetProvider } from "react-helmet-async";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
@@ -9,18 +10,20 @@ import Certificates from "./components/Certificates";
 
 function App() {
   return (
-    <div className="min-h-screen bg-bg-dark">
-      <Navbar />
-      <main>
-        <Hero />
-        <About />
-        <Skills />
-        <Certificates/>
-        <Projects />
-        <Contact />
-      </main>
-      <Footer />
-    </div>
+    <HelmetProvider>
+      <div className="min-h-screen bg-bg-dark">
+        <Navbar />
+        <main>
+          <Hero />
+          <About />
+          <Skills />
+          <Certificates />
+          <Projects />
+          <Contact />
+        </main>
+        <Footer />
+      </div>
+    </HelmetProvider>
   );
 }
 
